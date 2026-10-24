@@ -5,7 +5,7 @@
 # 🎥 Awesome Video Screen Recording & E-Learning 🎓
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Video-Screen-Recording-E-Learning/pulls)
@@ -74,99 +74,99 @@ The table below catalogs leading commercial SaaS products and desktop video reco
 
 ## 💻 Open-Source Repositories (Ranked by Stars)
 
-The following open-source solutions provide self-hostable video recording, native GPU-accelerated screencasting, and e-learning authoring tools. Each repository is badged with real-time GitHub stars (linking directly to its stargazers) and sorted in **descending order by star count**.
+The following open-source solutions provide self-hostable video recording, native GPU-accelerated screencasting, and e-learning authoring tools. Each repository is badged with real-time GitHub_Stars (linking directly to its stargazers) and sorted in **descending order by Stars_Count**.
 
-### 1. 🎥 [OBS Studio](https://obsproject.com/) [![GitHub stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)
+### 1. 🎥 [OBS Studio](https://obsproject.com/) [![GitHub_Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)
 - **License:** GPL-2.0 📜
 - **Primary Platform:** Windows, macOS, Linux 🖥️
 - **Highlights:** The industry benchmark for open-source high-performance video recording and live streaming. Features high-performance real-time video/audio capturing, scene compositions, GPU-hardware encoding (NVENC, AMD AMF, QuickSync, Apple Silicon VT), audio mixing with VST plugins, and modular plugin support. While not optimized for automated cursor zooms, it serves as the ultimate high-fidelity capture pipeline for tutorials and presentations.
 
-### 2. 📸 [ShareX](https://getsharex.com/) [![GitHub stars](https://img.shields.io/github/stars/ShareX/ShareX?style=social&color=white)](https://github.com/ShareX/ShareX/stargazers)
+### 2. 📸 [ShareX](https://getsharex.com/) [![GitHub_Stars](https://img.shields.io/github/stars/ShareX/ShareX?style=social&color=white)](https://github.com/ShareX/ShareX/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Windows 🪟
 - **Highlights:** Over 17 years of active development. Provides screen recording (via FFmpeg), animated GIF capture, scrolling screenshot capture, OCR text recognition, visual annotations, and direct upload pipelines to over 80 file-hosting destinations (S3, Dropbox, Google Drive, Imgur, custom endpoints).
 
-### 3. 🎬 [Recordly](https://github.com/webadderallorg/Recordly) [![GitHub stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=social&color=white)](https://github.com/webadderallorg/Recordly/stargazers)
+### 3. 🎬 [Recordly](https://github.com/webadderallorg/Recordly) [![GitHub_Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=social&color=white)](https://github.com/webadderallorg/Recordly/stargazers)
 - **License:** AGPL-3.0 📜
 - **Primary Platform:** macOS, Windows, Linux 🌐
 - **Highlights:** A modern open-source Screen Studio alternative featuring automated cursor smoothing, motion blur, click-bounce animations, cursor sizing adjustments, webcam round overlays, timeline zooms, speed regions, and gradient wallpapers. Exports crisp demo videos with `.recordly` project persistence.
 
-### 4. 🔥 [Flameshot](https://flameshot.org/) [![GitHub stars](https://img.shields.io/github/stars/flameshot-org/flameshot?style=social&color=white)](https://github.com/flameshot-org/flameshot/stargazers)
+### 4. 🔥 [Flameshot](https://flameshot.org/) [![GitHub_Stars](https://img.shields.io/github/stars/flameshot-org/flameshot?style=social&color=white)](https://github.com/flameshot-org/flameshot/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Linux, Windows, macOS 🐧
 - **Highlights:** Powerful yet lightweight screen capture tool with on-screen drawing, text callouts, arrow annotations, step-number markers (1, 2, 3), and blur/pixelate tools for masking sensitive student/customer data during tutorial creation.
 
-### 5. 🧢 [Cap](https://cap.so/) [![GitHub stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=social&color=white)](https://github.com/CapSoftware/Cap/stargazers)
+### 5. 🧢 [Cap](https://cap.so/) [![GitHub_Stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=social&color=white)](https://github.com/CapSoftware/Cap/stargazers)
 - **License:** AGPL-3.0 📜
 - **Primary Platform:** macOS, Windows, Linux, Web / Docker 🐳
 - **Highlights:** The premier open-source Loom alternative. Features **Instant Mode** (streams uploads in real time as you record for zero-delay sharing) and **Studio Mode** (local timeline editing, automated captions, zooms, and custom backgrounds). Full self-hosting via Docker Compose with your own S3-compatible storage (MinIO, Cloudflare R2, AWS S3).
 
-### 6. 🖍️ [Screenity](https://screenity.io/) [![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/screenity?style=social&color=white)](https://github.com/alyssaxuu/screenity/stargazers)
+### 6. 🖍️ [Screenity](https://screenity.io/) [![GitHub_Stars](https://img.shields.io/github/stars/alyssaxuu/screenity?style=social&color=white)](https://github.com/alyssaxuu/screenity/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Google Chrome & Chromium Browsers 🌐
 - **Highlights:** The leading open-source browser-native screen recorder and annotation tool. Annotate anywhere on screen during recording, draw lines, add shapes, highlight clicks, mute system audio, record tabs or full desktop, and export to MP4, WebM, or GIF with zero watermarks.
 
-### 7. ⌨️ [KeyCastr](https://github.com/keycastr/keycastr) [![GitHub stars](https://img.shields.io/github/stars/keycastr/keycastr?style=social&color=white)](https://github.com/keycastr/keycastr/stargazers)
+### 7. ⌨️ [KeyCastr](https://github.com/keycastr/keycastr) [![GitHub_Stars](https://img.shields.io/github/stars/keycastr/keycastr?style=social&color=white)](https://github.com/keycastr/keycastr/stargazers)
 - **License:** BSD-3-Clause 📜
 - **Primary Platform:** macOS 🍏
 - **Highlights:** Open-source keystroke visualizer for instructional videos, live coding demos, and presentations. Displays customizable on-screen visual badges whenever keyboard shortcuts or typing sequences are executed, ensuring students never miss hotkey combinations.
 
-### 8. 📡 [Screego](https://screego.net/) [![GitHub stars](https://img.shields.io/github/stars/screego/server?style=social&color=white)](https://github.com/screego/server/stargazers)
+### 8. 📡 [Screego](https://screego.net/) [![GitHub_Stars](https://img.shields.io/github/stars/screego/server?style=social&color=white)](https://github.com/screego/server/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Self-Hosted Go Binary / Docker 🐳
 - **Highlights:** Lightweight self-hosted screen-sharing server built with WebRTC. Designed for developers and educators to share screens with low latency, integrated voice chat, multi-user rooms, and end-to-end data control without relying on third-party cloud conferencing.
 
-### 9. 🐣 [Peek](https://github.com/phw/peek) [![GitHub stars](https://img.shields.io/github/stars/phw/peek?style=social&color=white)](https://github.com/phw/peek/stargazers)
+### 9. 🐣 [Peek](https://github.com/phw/peek) [![GitHub_Stars](https://img.shields.io/github/stars/phw/peek?style=social&color=white)](https://github.com/phw/peek/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Linux (X11 / Wayland) 🐧
 - **Highlights:** An animated GIF and lightweight video screen recorder featuring an adjustable frame overlay window. Place the frame over any UI component, click Record, and produce crisp GIF/WebM/MP4 clips perfect for documentation and GitHub pull request walkthroughs.
 
-### 10. ⚡ [OpenScreen](https://getopenscreen.com/) [![GitHub stars](https://img.shields.io/github/stars/getopenscreen/openscreen?style=social&color=white)](https://github.com/getopenscreen/openscreen/stargazers)
+### 10. ⚡ [OpenScreen](https://getopenscreen.com/) [![GitHub_Stars](https://img.shields.io/github/stars/getopenscreen/openscreen?style=social&color=white)](https://github.com/getopenscreen/openscreen/stargazers)
 - **License:** MIT 📜
 - **Primary Platform:** macOS (ScreenCaptureKit), Windows (Windows Graphics Capture), Linux (PipeWire) 💻
 - **Highlights:** Fast, GPU-accelerated Screen Studio alternative. Offers click-based dynamic zooms, timeline editing, speed regions, background padding, and local Whisper-powered transcription. Features an **MCP (Model Context Protocol) server and CLI** for programmatic, AI-agent-driven screen recording.
 
-### 11. 🐹 [Kooha](https://github.com/SeaDve/Kooha) [![GitHub stars](https://img.shields.io/github/stars/SeaDve/Kooha?style=social&color=white)](https://github.com/SeaDve/Kooha/stargazers)
+### 11. 🐹 [Kooha](https://github.com/SeaDve/Kooha) [![GitHub_Stars](https://img.shields.io/github/stars/SeaDve/Kooha?style=social&color=white)](https://github.com/SeaDve/Kooha/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Linux (GTK4 / Libadwaita / Wayland & X11) 🐧
 - **Highlights:** Minimalist, modern screen recorder built for GNOME and Linux desktops. Clean UI, hardware-accelerated encoding, webcam overlay, area capture, system audio and mic recording, and quick export to MP4, WebM, and GIF formats.
 
-### 12. 📼 [SimpleScreenRecorder (SSR)](https://www.maartenbaert.be/simplescreenrecorder/) [![GitHub stars](https://img.shields.io/github/stars/MaartenBaert/ssr?style=social&color=white)](https://github.com/MaartenBaert/ssr/stargazers)
+### 12. 📼 [SimpleScreenRecorder (SSR)](https://www.maartenbaert.be/simplescreenrecorder/) [![GitHub_Stars](https://img.shields.io/github/stars/MaartenBaert/ssr?style=social&color=white)](https://github.com/MaartenBaert/ssr/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Linux 🐧
 - **Highlights:** Classic, battle-tested screen recorder for Linux desktop systems. Known for rock-solid audio/video synchronization, multi-threading optimizations, OpenGL frame capture, and low system overhead during long technical lectures.
 
-### 13. 💧 [Screendrop](https://github.com/fayazara/Screendrop) [![GitHub stars](https://img.shields.io/github/stars/fayazara/Screendrop?style=social&color=white)](https://github.com/fayazara/Screendrop/stargazers)
+### 13. 💧 [Screendrop](https://github.com/fayazara/Screendrop) [![GitHub_Stars](https://img.shields.io/github/stars/fayazara/Screendrop?style=social&color=white)](https://github.com/fayazara/Screendrop/stargazers)
 - **License:** MIT 📜
 - **Primary Platform:** macOS 🍏
 - **Highlights:** Native macOS screen recorder with a built-in **teleprompter**, on-device Whisper transcription, non-destructive session recording packages, instant video trim, and local shareable video links.
 
-### 14. 🎙️ [vokoscreenNG](https://vokoscreen.volker-krause.de/) [![GitHub stars](https://img.shields.io/github/stars/vkohaupt/vokoscreenNG?style=social&color=white)](https://github.com/vkohaupt/vokoscreenNG/stargazers)
+### 14. 🎙️ [vokoscreenNG](https://vokoscreen.volker-krause.de/) [![GitHub_Stars](https://img.shields.io/github/stars/vkohaupt/vokoscreenNG?style=social&color=white)](https://github.com/vkohaupt/vokoscreenNG/stargazers)
 - **License:** GPL-2.0 📜
 - **Primary Platform:** Linux, Windows 🖥️
 - **Highlights:** User-friendly GUI screen recorder powered by Qt and GStreamer. Supports full screen, window, or custom area recording, magnifier loupe effect, click animations, and multiple audio source inputs.
 
-### 15. 🔑 [Show Me The Key](https://github.com/AlynxZhou/showmethekey) [![GitHub stars](https://img.shields.io/github/stars/AlynxZhou/showmethekey?style=social&color=white)](https://github.com/AlynxZhou/showmethekey/stargazers)
+### 15. 🔑 [Show Me The Key](https://github.com/AlynxZhou/showmethekey) [![GitHub_Stars](https://img.shields.io/github/stars/AlynxZhou/showmethekey?style=social&color=white)](https://github.com/AlynxZhou/showmethekey/stargazers)
 - **License:** Apache-2.0 📜
 - **Primary Platform:** Linux (libinput / Wayland & X11) 🐧
 - **Highlights:** Screenkeys utility for Linux screencasters and online tutors. Intercepts raw input via `libinput` to display keyboard presses and mouse clicks directly on screen with full Wayland compositing support.
 
-### 16. 📚 [H5P (Lumi Desktop Editor)](https://lumi.education/) [![GitHub stars](https://img.shields.io/github/stars/Lumieducation/Lumi?style=social&color=white)](https://github.com/Lumieducation/Lumi/stargazers)
+### 16. 📚 [H5P (Lumi Desktop Editor)](https://lumi.education/) [![GitHub_Stars](https://img.shields.io/github/stars/Lumieducation/Lumi?style=social&color=white)](https://github.com/Lumieducation/Lumi/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Windows, macOS, Linux, Web 🎓
 - **Highlights:** Offline desktop authoring tool for **H5P interactive content**. Turn screen recordings into interactive videos with embedded timestamped quizzes, drag-and-drop questions, and branching scenarios. Exports directly to standalone HTML and SCORM 1.2 packages compatible with Moodle, Canvas, and Blackboard.
 
-### 17. 🎓 [eXeLearning](https://exelearning.net/) [![GitHub stars](https://img.shields.io/github/stars/exelearning/exelearning?style=social&color=white)](https://github.com/exelearning/exelearning/stargazers)
+### 17. 🎓 [eXeLearning](https://exelearning.net/) [![GitHub_Stars](https://img.shields.io/github/stars/exelearning/exelearning?style=social&color=white)](https://github.com/exelearning/exelearning/stargazers)
 - **License:** GPL-2.0 📜
 - **Primary Platform:** Windows, Linux, macOS, Docker 🐳
 - **Highlights:** Supported by Spain’s Ministry of Education (INTEF). Free open-source authoring tool to generate structured interactive learning resources (Open Educational Resources - OER). Supports hierarchical unit outlines, iDevices (interactive exercises), real-time collaborative editing via Yjs WebSockets, and exports to SCORM 1.2, SCORM 2004, IMS, and standalone web pages.
 
-### 18. 🛡️ [SendRec](https://github.com/sendrec/sendrec) [![GitHub stars](https://img.shields.io/github/stars/sendrec/sendrec?style=social&color=white)](https://github.com/sendrec/sendrec/stargazers)
+### 18. 🛡️ [SendRec](https://github.com/sendrec/sendrec) [![GitHub_Stars](https://img.shields.io/github/stars/sendrec/sendrec?style=social&color=white)](https://github.com/sendrec/sendrec/stargazers)
 - **License:** AGPL-3.0 📜
 - **Primary Platform:** Docker / Self-Hosted Web App 🐳
 - **Highlights:** GDPR-first self-hosted Loom alternative. Built for European institutions requiring local data residency. Offers browser-native recording across Chrome, Safari, and Firefox, password-protected video links, self-hosted Whisper transcription, viewer completion funnels (25%/50%/75%/100%), and webhooks.
 
-### 19. 🚀 [Framepipe](https://github.com/martian0x80/framepipe) [![GitHub stars](https://img.shields.io/github/stars/martian0x80/framepipe?style=social&color=white)](https://github.com/martian0x80/framepipe/stargazers)
+### 19. 🚀 [Framepipe](https://github.com/martian0x80/framepipe) [![GitHub_Stars](https://img.shields.io/github/stars/martian0x80/framepipe?style=social&color=white)](https://github.com/martian0x80/framepipe/stargazers)
 - **License:** GPL-3.0 📜
 - **Primary Platform:** Linux (Wayland / PipeWire / DRM-KMS) 🐧
 - **Highlights:** Zero-copy GPU-accelerated CLI screen recorder for Linux power users. Features real-time cursor smoothing, automatic zoom-and-follow, and hardware GStreamer encoding (VAAPI, QSV, NVENC) in AV1, H.265, and H.264 formats.
@@ -226,7 +226,7 @@ Contributions to expand and update this ecosystem are warmly welcome!
 2. **Create a Feature Branch**: `git checkout -b add/new-screen-tool`.
 3. **Follow the Standard Structure**:
    - For SaaS tools: Include specific starting tier pricing, explicit free tier or free trial limits, and company valuation/revenue metrics.
-   - For Open-Source tools: Include the Shields.io social star badge linking to the repo's stargazers, maintain star descending order, and state license and supported platforms.
+   - For Open-Source tools: Include the Shields.io social Stars_Badge linking to the repo's stargazers, maintain star descending order, and state license and supported platforms.
 4. **Submit a Pull Request** with a concise description of why the tool belongs in this curated list.
 
 ---
@@ -255,7 +255,7 @@ Every contribution directly funds further open-source research and community gui
 
 - This repository is a community-curated reference and does not constitute a formal commercial endorsement.
 - All product names, logos, and brands are property of their respective owners.
-- Pricing, free tier limits, valuations, and star counts are subject to change over time; please verify on official vendor and repository pages.
+- Pricing, free tier limits, valuations, and Stars_Counts are subject to change over time; please verify on official vendor and repository pages.
 
 ---
 
